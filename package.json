@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-test",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0"
+  }
+}
